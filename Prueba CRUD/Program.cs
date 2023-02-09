@@ -10,7 +10,7 @@ namespace Prueba_CRUD
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hola Leo");
         }
     }
 }
